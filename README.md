@@ -12,7 +12,7 @@ This repository contains the scripts and data used to create the graphs and imag
 
 ## Description
 
-This repository provides R scripts and datasets for analyzing and visualizing the climatological and atmospheric patterns associated with different types of heat waves in Middle Europe.
+This repository provides R scripts and datasets for analyzing and visualizing the climatological and atmospheric patterns associated with different types of heat waves in the Middle Europe.
 
 ---
 
@@ -49,7 +49,7 @@ This repository provides R scripts and datasets for analyzing and visualizing th
   Contains daily PET-P values for three days before, during, and after heat waves, as well as during the June–September season.
 
 - **dat_before.rds**, **dat_during.rds**, **dat_after.rds**  
-  Frequencies of circulation types (Stryhal, 2025) during individual heat wave types (HWG, HWL, HWO, HWH) (Lhotka, 2025).  
+  Frequencies of circulation types during individual heat wave types (HWG, HWL, HWO, HWH).  
   Circulation types are grouped as follows:
   - **A:** A, AN, ANE, AE, ASE, AS, ASW, AW, ANW
   - **C:** C, CN, CNE, CE, CSE, CS, CSW, CW, CNW
